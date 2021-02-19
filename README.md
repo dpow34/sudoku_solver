@@ -1,16 +1,19 @@
-Sudoku Instructions:
+Instructions:
 
 Simply you must fill each spot on the board with a number 1-9, without repeating any numbers in every row, column, and 
 3x3 block (inside thicker lines on board). For more about the rules visit https://www.learn-sudoku.com/sudoku-rules.html. 
 
 
-To run sudoku.py on repl.it:
+To run sudoku.py:
+
+**Note repl.it output window cuts off the bottom 1/3rd of Sudoku board. For best results, run locally.
 
 1. Open the repl.it link (https://repl.it/@powdrild/Sudoku#main.py)
 
-2. Click run at the top.
+2. Click run at the top. May have to click run twice if first time running pygame on repl.it (not sure why). 
 
-3. You will be shown a sudoku board on the screen. 
+3. You will be shown a sudoku board on the screen. Sudoku board GUI will be cutoff on top on repl.it (doens't occur on local machine)
+for some reason but should be able to see everything still. 
 
 4. Press Enter to solve/verify the Sudoku board. If solving, all solved numbers will be in green. The program will then tell you whether
 the board is solved/verified or incorrect/unsolvable.
