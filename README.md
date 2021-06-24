@@ -1,7 +1,3 @@
-
-
-just upload the .gif file into your base folder of GitHub and edit README.md just use this code
-
 ![](sudokuSolver.gif)
 
 
