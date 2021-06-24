@@ -1,3 +1,10 @@
+
+
+just upload the .gif file into your base folder of GitHub and edit README.md just use this code
+
+![](sudokuSolver.gif)
+
+
 Instructions:
 
 Simply you must fill each spot on the board with a number 1-9, without repeating any numbers in every row, column, and 
